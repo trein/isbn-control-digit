@@ -11,7 +11,7 @@ Example:
     Resulting ISBN-10: 155192370x
 
 """
-from source import conversion
+from src import conversion
 
 
 PRODUCT_ID_INPUT_MESSAGE = "Enter the product ID to be converted: "
