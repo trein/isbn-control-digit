@@ -5,7 +5,7 @@ from conversion import ConversionException
 
 class IsbnConverterTests(unittest.TestCase):
     """
-    Test case for IsbnConverter class.
+    Test case for IsbnConverter class business logic.
     """
 
     def setUp(self):
